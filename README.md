@@ -1,4 +1,5 @@
-<h1 align="center"> Luís Felipe Bezerra</h1>![kratos](https://www.hardware.com.br/wp-content/uploads/2025/01/god-of-war-ragnarok-lowest-price-1.jpg)
+<h1 align="center"> Luís Felipe Bezerra</h1>!
+[kratos](https://www.hardware.com.br/wp-content/uploads/2025/01/god-of-war-ragnarok-lowest-price-1.jpg)
 <h3 align="center">A student in software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luissbezerra&label=Profile%20views&color=0e75b6&style=flat" alt="luissbezerra" /> </p>
